@@ -2,4 +2,5 @@
 - ## 👀 A wannabe coder
 - ### 🌱 Currently learning to make wold a better place
 - #### 📫 On my way to achieve Bachelor degree in CSIT.
-- ##### 💬 Reach me via my emailO
+- ##### 🏃 Swimming and running keep my body and mind balanced.
+- ##### 📖 Reading makes me think while keeping me curious.
