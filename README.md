@@ -1,6 +1,6 @@
 - # 👋 Hi, I’m @Gaurab2000
 - ## 👀 A wannabe coder.
-- ### 🌱 Currently learning to make wold a better place.
+- ### 🌱 Currently learning to be a better person.
 - #### 📫 On my way to achieve Bachelor degree in CSIT.
 - ##### 🏃 Swimming and running keep my body and mind balanced.
 - ##### 📖 Reading makes me think while keeping me curious.
