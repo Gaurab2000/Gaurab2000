@@ -1,7 +1,7 @@
 h1 align="center">Hi 👋, I'm Gaurab</h1>
 <h3 align="center">Hungry Learner</h3>
 
-img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif"
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurab2000&label=Profile%20views&color=0e75b6&style=flat" alt="gaurab2000" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
