@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif))]
+![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif))
 <h1 align="center">Hi 👋, I'm Gaurab</h1>
 <h3 align="center">Hungry Learner</h3>
 
