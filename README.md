@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif))](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif))]
 <h1 align="center">Hi 👋, I'm Gaurab</h1>
 <h3 align="center">Hungry Learner</h3>
 
